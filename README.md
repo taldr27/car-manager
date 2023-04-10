@@ -1,70 +1,102 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 📗 Table of Contents
 
-## Available Scripts
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
 
-In the project directory, you can run:
+<!-- PROJECT DESCRIPTION -->
 
-### `npm start`
+# Car-Manager <a name="about-project"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Car-Manager** is a web application that allows users to manage a list of cars with associated prices. Built using React and Redux Toolkit, the application provides a user-friendly interface for adding and removing cars, as well as searching for specific cars by name. Additionally, the application calculates the total cost of all the cars in the list, providing users with a clear overview of their expenses. Whether you're a car enthusiast or simply need to keep track of your fleet, the Car Manager is a powerful tool for managing your vehicles.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## 🛠 Built With <a name="built-with"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Tech Stack <a name="tech-stack"></a>
 
-### `npm run build`
+> Developed using Ruby on Rails.
+<details>
+  <summary>Languages</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React</a></li>
+  </ul>
+    <ul>
+    <li><a href="https://redux.js.org/">Redux</a></li>
+  </ul>
+</details>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Key Features <a name="key-features"></a>
+- **Add cars and prices for each car**
+- **Auto calculated total price**
+- **Delete Cars**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Live Demo <a name="live-demo"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [Live Link](https://musical-churros-4565e3.netlify.app)
 
-### `npm run eject`
+## 💻 Getting Started <a name="getting-started"></a>
+> To get a local copy up and running, follow these steps.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Prerequisites
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+In order to run this project you need:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Node.js installed in your computer.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Setup
+Clone this repository to your desired folder:
+```
+- To clone the repository run this command - "git@github.com:taldr27/car-manager.git" OR "https://github.com/taldr27/car-manager.git"
+- cd car-manager
+```
+### Installation
+Install this project with:
+```
+- npm install
+```
 
-## Learn More
+### Usage
+To run the project, execute these following commands:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Start the application: 
+  ```
+  npm start
+  ```
+## 👥 Authors <a name="authors"></a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+👤 **Diego Garcia**
 
-### Code Splitting
+- GitHub: [@taldr27](https://github.com/taldr27)
+- LinkedIn: [diegogarcial](https://www.linkedin.com/in/diegogarcial/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🤝 Contributing <a name="contributing"></a>
 
-### Analyzing the Bundle Size
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Feel free to check the [issues page](../../issues/).
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## ⭐️ Show your support <a name="support"></a>
 
-### Advanced Configuration
+Give a ⭐️ if you like this project!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+I would like to thank to Stephen Grider for his excellent course.
 
-### `npm run build` fails to minify
+## 📝 License <a name="license"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
